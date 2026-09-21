@@ -1,0 +1,2 @@
+# Only the standard library is needed to run the project.
+# Tests use unittest: python -m unittest discover -s tests
